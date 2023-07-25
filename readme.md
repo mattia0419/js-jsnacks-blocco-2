@@ -1,13 +1,14 @@
 # TRACCIA
 
-Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari.
+Crea due array che hanno un numero di elementi diversi.  Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
 
 # SVOLGIMENTO
 
-- Creo una lista di numeri interi.
+- Creo una lista di elementi.
 
-- Creo un valore "val".
+- Creo una lista con meno elementi della prima.
 
-**SE** l'indice dell'elemento modulo 2 è uguale a 1 :
+**SE** il numero di elementi della seconda lista è minore della prima :
 
-- vado a sommare il numero a "val". 
+- Aggiungi un elemento alla seconda lista.
+
