@@ -1,17 +1,13 @@
 # TRACCIA
 
-Generatore di “nomi cognomi” casuali: il Grande Gatsby ha una lista di nomi e una lista di cognomi, e da queste vuole generare una falsa lista di invitati con nome e cognome.
+Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari.
 
 # SVOLGIMENTO
 
-- Creo una lista di nomi.
+- Creo una lista di numeri interi.
 
-- Creo una lista di cognomi.
+- Creo un valore "val".
 
-- Genero un numero casuale nella lista dei nomi.
+**SE** l'indice dell'elemento modulo 2 è uguale a 1 :
 
-- Genero un numero casuale nella lista dei cognomi.
-
-- Abbino il nome e cognome.
-
-- Stampo nella lista.
+- vado a sommare il numero a "val". 
