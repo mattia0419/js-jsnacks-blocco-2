@@ -1,11 +1,17 @@
 # TRACCIA
 
-Inserisci un numero, se è pari stampa il numero, se è dispari stampa il numero successivo.
+Generatore di “nomi cognomi” casuali: il Grande Gatsby ha una lista di nomi e una lista di cognomi, e da queste vuole generare una falsa lista di invitati con nome e cognome.
 
 # SVOLGIMENTO
 
-- Chiedo all'utente di inserire un numero
+- Creo una lista di nomi.
 
-**SE** numero dell'utente modulo 2 è uguale a 0 :
+- Creo una lista di cognomi.
 
-- Stampa numero successivo.
+- Genero un numero casuale nella lista dei nomi.
+
+- Genero un numero casuale nella lista dei cognomi.
+
+- Abbino il nome e cognome.
+
+- Stampo nella lista.
