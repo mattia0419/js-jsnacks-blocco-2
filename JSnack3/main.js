@@ -7,6 +7,7 @@ for(let i = 0; i < num.length; i++){
         val += num[i];
         console.log(val);
     }
-    result.innerHTML = val;
+    
 }
 
+result.innerHTML = val;
